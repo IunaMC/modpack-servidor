@@ -24,7 +24,6 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) [3.3.0] - Corrige problemas de pacotes e timeouts.
 - [Paradigm](https://modrinth.com/mod/s4i32SJd) [1.1.0] - Agendador de restarts e chats de grupo.
 - [SkinRestorer](https://modrinth.com/mod/ghrZDhGW) [2.4.3+1.20-forge] - Restaura skins em servidores offline.
-- [TAB](https://modrinth.com/mod/gG7VFbG0) [5.2.1] - Lista de jogadores customizável e MOTD.
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) [2.5.4] - Expande overworld com novos biomas.
 - [Vanishmod](https://modrinth.com/mod/MihN2cw5) [1.1.18] - Torna admins invisíveis para outros.
 - [Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG) [1.0] - Teleporta pets com Waystones sem lead.
