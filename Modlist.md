@@ -28,6 +28,7 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [Observable](https://modrinth.com/mod/VYRu7qmG) [4.4.2] - Monitora performance do servidor com profiling.
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) [3.3.0] - Corrige problemas de pacotes e timeouts.
 - [Paradigm](https://modrinth.com/mod/s4i32SJd) [1.1.0] - Agendador de restarts e chats de grupo.
+- [Radium](https://modrinth.com/mod/2gvRmQXx) [0.12.4] - Fork do Lithium, otimiza performance do servidor.
 - [Sinytra Connector](https://modrinth.com/mod/e8hSZ4vp) [1.0.0-beta.46+1.20.1] - Executa mods Fabric no Forge.
 - [SkinRestorer](https://modrinth.com/mod/ghrZDhGW) [2.4.3+1.20-forge] - Restaura skins em servidores offline.
 - [spark](https://modrinth.com/mod/l6YH9Als) [1.10.53] - Ferramenta de diagnóstico de performance.
