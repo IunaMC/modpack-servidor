@@ -10,6 +10,7 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [Crash Utilities](https://modrinth.com/mod/nbg22QFg) [8.1.4] - Ferramentas para diagnosticar e gerenciar crashes no servidor.
 - [Does It Tick?](https://modrinth.com/mod/vmg6jaPW) [1.1.4] - Otimiza ticks de entidades distantes.
 - [Dungeon Crawl](https://modrinth.com/mod/q0rRg4lH) [2.3.15] - Gera masmorras roguelike subterrâneas.
+- [EasyAuth](https://modrinth.com/mod/aZj58GfX) [3.3.6] - Sistema de autenticação para servidores offline, usa senhas.
 - [Essential Commands](https://modrinth.com/mod/6VdDUivB) [0.35.3-mc1.20.1] - Comandos úteis como tpa e home.
 - [Ferrite Core](https://modrinth.com/mod/uXXizFIs) [6.0.1] - Otimiza uso de memória do Minecraft.
 - [Flan](https://modrinth.com/mod/Si383TIH) [1.20.1-1.11.15] - Permite criar claims no mundo para proteção.
@@ -17,6 +18,7 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [Harvest with ease](https://modrinth.com/mod/W4Ajthd2) [9.4.0] - Colhe e replanta colheitas com clique direito.
 - [InvView_Forge](https://modrinth.com/mod/RXM1nxge) [2.1.0-1.20.1] - Visualiza e edita inventários de jogadores.
 - [Journeymap](https://modrinth.com/mod/lfHFW1mp) [5.10.3] - Mapeamento em tempo real no jogo ou navegador.
+- [Krypton FNP](https://modrinth.com/mod/JkxWVYwU) [0.2.23.1-lite] - Otimiza rede do servidor, reduzindo latência e uso de banda.
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) [1.3.4] - Otimiza carregamento de mundos para servidores.
 - [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) [8.0.0] - Folhas de árvores decaem rapidamente.
 - [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) [1.5.0] - Permite despawn de mobs persistentes.
@@ -29,6 +31,7 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) [3.3.0] - Corrige problemas de pacotes e timeouts.
 - [Paradigm](https://modrinth.com/mod/s4i32SJd) [1.1.0] - Agendador de restarts e chats de grupo.
 - [Radium](https://modrinth.com/mod/2gvRmQXx) [0.12.4] - Fork do Lithium, otimiza performance do servidor.
+- [Simple Discord Link](https://modrinth.com/mod/Sh0YauEf) [3.3.3] - Integra chat do servidor com Discord, permitindo interação bidirecional.
 - [Sinytra Connector](https://modrinth.com/mod/e8hSZ4vp) [1.0.0-beta.46+1.20.1] - Executa mods Fabric no Forge.
 - [SkinRestorer](https://modrinth.com/mod/ghrZDhGW) [2.4.3+1.20-forge] - Restaura skins em servidores offline.
 - [spark](https://modrinth.com/mod/l6YH9Als) [1.10.53] - Ferramenta de diagnóstico de performance.
