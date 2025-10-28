@@ -14,15 +14,15 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Carry On](https://modrinth.com/mod/joEfVgkn) [2.1.2.7] - Permite carregar blocos e mobs com as mãos.
 - [CarryOnExtend](https://modrinth.com/mod/JbqjOoQj) [1.4.2] - Extensão para Carry On, permitindo jogar entidades carregadas.
 - [Cataclysm: Spellbooks](https://modrinth.com/mod/3FEg0A8D) [1.2.2-1.20.1] - Addon para Iron's Spells com feitiços de Cataclysm.
+- [cataclysm](https://modrinth.com/mod/46KJle7n) [3.16] - Adiciona masmorras e bosses difíceis.
 - [Chipped](https://modrinth.com/mod/BAscRYKm) [3.0.7] - Adiciona mais de 11.000 variantes de blocos para construção.
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [6.4.0+1.20.1] - Adiciona sacos de dormir e redes portáteis.
 - [Connector Extras](https://modrinth.com/mod/FYpiwiBR) [1.11.2+1.20.1] - Extensões para compatibilidade de mods Fabric.
-- [Sinytra Connector](https://modrinth.com/mod/connector) [1.0.0-beta.46+1.20.1] - Executa mods Fabric no NeoForge.
 - [Corpse](https://www.curseforge.com/projects/316582) [1.20.1-1.0.23] - Deixa um cadáver com itens ao morrer.
 - [Cosmetic Armor x Corpse Compat](https://www.curseforge.com/projects/1208436) [1.0.0] - Compatibilidade entre Cosmetic Armor e Corpse.
 - [CosmeticArmorReworked](https://www.curseforge.com/projects/237307) [1.20.1-v1a] - Permite usar duas armaduras: funcional e cosmética.
-- [Create](https://modrinth.com/mod/LNytGWDc) [6.0.6] - Tecnologia estética para automação e construção.
 - [Create Enchantment Industry](https://modrinth.com/mod/JWGBpFUP) [1.3.3-for-create-6.0.6] - Addon para Create com encantamentos industriais.
+- [Create](https://modrinth.com/mod/LNytGWDc) [6.0.6] - Tecnologia estética para automação e construção.
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2.12.32] - Biblioteca para mods de CreativeMD.
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [3.0.2] - Reformula creepers vanilla com variantes.
 - [Cupboard utilities](https://www.curseforge.com/projects/326652) [1.20.1-2.7] - Framework e utilitários para mods de Minecraft.
@@ -50,30 +50,33 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Item Obliterator](https://modrinth.com/mod/3ESR84kR) [2.3.0] - Permite destruir itens indesejados automaticamente.
 - [Journeymap](https://modrinth.com/mod/lfHFW1mp) [5.10.3] - Mapeamento em tempo real no jogo ou navegador.
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [15.20.0.116] - Visualiza itens e receitas no jogo.
+- [Lightman's Currency](https://www.curseforge.com/minecraft/mc-mods/lightmans-currency) [1.20.1-2.2.6.4] - Sistema de economia com moedas e máquinas de venda.
 - [Lootr](https://modrinth.com/mod/EltpO5cN) [0.7.35.92] - Baús instanciados por jogador para loot único.
-- [MOA DECOR: COOKERY](https://www.curseforge.com/projects/701502) [1.20.1] - Itens decorativos de cozinha.
-- [MOA DECOR: LIGHTS](https://www.curseforge.com/projects/892530) [1.20.1] - Iluminações decorativas variadas.
-- [MOA: ELECTRONICS](https://www.curseforge.com/projects/1012624) [1.20.1] - Eletrônicos decorativos como TVs e consoles.
 - [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3.1.0] - Várias pontes para construção.
 - [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) [1.1.5] - Corrige vazamentos de memória aleatórios.
 - [Mermod](https://modrinth.com/mod/ORiydwz3) [3.0.1] - Adiciona mecânicas e itens de sereias.
 - [Mining Master](https://modrinth.com/mod/Xu8V0UlK) [4.1.3] - Gemas encantadoras para ferramentas e armaduras.
+- [MOA DECOR: COOKERY](https://www.curseforge.com/projects/701502) [1.20.1] - Itens decorativos de cozinha.
+- [MOA DECOR: LIGHTS](https://www.curseforge.com/projects/892530) [1.20.1] - Iluminações decorativas variadas.
+- [MOA: ELECTRONICS](https://www.curseforge.com/projects/1012624) [1.20.1] - Eletrônicos decorativos como TVs e consoles.
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) [5.24.4+mc1.20.1] - Correções e otimizações de performance.
-- [MrCrayfish's Furniture Mod](https://www.curseforge.com/projects/55438) [7.0.0-pre36] - Móveis funcionais e decorativos.
 - [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/projects/897116) [1.0.14] - Versão reformulada com novos modelos.
+- [MrCrayfish's Furniture Mod](https://www.curseforge.com/projects/55438) [7.0.0-pre36] - Móveis funcionais e decorativos.
 - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1.20.1-1.11.2-forge] - Localiza biomas em qualquer lugar.
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) [1.20.1-v2.2.2] - Remove assinaturas de chat para privacidade.
 - [Paraglider](https://modrinth.com/mod/esqWA0aQ) [20.1.3] - Parapente inspirado em Breath of the Wild.
 - [PlayerRevive](https://modrinth.com/mod/ABIMzABM) [2.0.31] - Revive jogadores em 60s após morte.
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) [0.49.10+1.20.1] - Resolve conflitos de receitas permitindo escolha de resultados.
 - [Powerless Refined Storage Addon](https://modrinth.com/mod/GmYU8TFR) [1.0.0] - Addon para Refined Storage sem energia.
 - [Quark](https://modrinth.com/mod/qnQsVE2z) [4.0-462] - Coleção de melhorias vanilla+.
 - [RAR-Compat](https://modrinth.com/mod/GnU07giL) [0.5] - Compatibilidade para Savage & Ravage com outros mods.
-- [Refined Storage](https://modrinth.com/mod/KDvYkUg3) [1.12.4] - Sistema de armazenamento digital automatizado.
 - [Refined Storage Addons](https://modrinth.com/mod/Z4Z5ccuT) [0.10.0] - Extensões para Refined Storage.
+- [Refined Storage](https://modrinth.com/mod/KDvYkUg3) [1.12.4] - Sistema de armazenamento digital automatizado.
 - [Relics](https://modrinth.com/mod/OCJRPujW) [0.8.0.11] - Adiciona relíquias com habilidades únicas.
 - [Savage & Ravage](https://modrinth.com/mod/KxOh9voD) [6.0.0] - Melhora raids com novos inimigos.
 - [Shield Expansion](https://modrinth.com/mod/sjxWxSao) [1.2.2] - Escudos com tiers e parry.
 - [Simple Voice Chat](https://www.curseforge.com/projects/416089) [1.20.1-2.6.4] - Chat de voz por proximidade.
+- [Sinytra Connector](https://modrinth.com/mod/connector) [1.0.0-beta.46+1.20.1] - Executa mods Fabric no NeoForge.
 - [Sophisticated Backpacks](https://www.curseforge.com/projects/422301) [3.24.8.1381] - Mochilas upgradáveis e customizáveis.
 - [Sophisticated Core](https://www.curseforge.com/projects/618298) [1.2.96.1182] - Biblioteca para mods Sophisticated.
 - [Sophisticated Storage](https://www.curseforge.com/projects/619320) [1.4.10.1326] - Armazenamento upgradável e customizável.
@@ -89,7 +92,6 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Waystones](https://www.curseforge.com/projects/245755) [14.1.17] - Pedras para teleporte rápido.
 - [WebDisplays](https://modrinth.com/mod/bRa1UAVZ) [2.0.1-1.20.1] - Telas para navegar na web no jogo.
 - [Xray Snitch](https://modrinth.com/mod/AKunSbDQ) [1.2] - Detecta e alerta uso de X-ray no servidor.
-- [cataclysm](https://modrinth.com/mod/46KJle7n) [3.16] - Adiciona masmorras e bosses difíceis.
 
 ### Mods Opcionais
 
@@ -118,6 +120,7 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) [2.3.15] - Gera masmorras roguelike subterrâneas.
 - [Easy Authentication Mod](https://github.com/NikitaCartes/EasyAuth) [3.2.1] - Autenticação simples para servidores offline.
 - [Essential Commands](https://www.jpcode.dev) [0.35.3-mc1.20.1] - Comandos úteis como tpa e home.
+- [fastasyncworldsave mod](https://modrinth.com/mod/fastasyncworldsave) [1.20.1-2.6] - Acelera salvamento de mundos no servidor.
 - [Flan](https://www.curseforge.com/minecraft/mc-mods/flan-forge) [1.20.1-1.11.15] - Permite criar claims para proteção de áreas.
 - [GriefLogger](https://modrinth.com/mod/8oGVUFuX) [1.2.4-1.20.1] - Registra interações de jogadores com banco de dados.
 - [Harvest with ease](https://github.com/crystal-nest/harvest-with-ease/tree/1.20.1) [9.4.0] - Colhe e replanta com clique direito.
@@ -125,12 +128,14 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [InvView_Forge](https://github.com/RazorPlay01) [2.1.0-1.20.1] - Visualiza e edita inventários de jogadores.
 - [Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp) [0.2.23.1-lite] - Otimiza pacotes de rede para servidores.
 - [Ksyxis](https://modrinth.com/mod/ksyxis) [1.3.4] - Acelera carregamento inicial de mundos.
+- [Leash Mod](https://modrinth.com/mod/leashable-players) [1.0.6] - Permite prender mobs com leash em situações onde o vanilla não permite.
 - [Leaves Be Gone](https://github.com/Fuzss/leavesbegone) [8.0.0] - Folhas de árvores decaem rapidamente.
 - [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) [1.5.0] - Permite despawn de mobs persistentes.
 - [Log Begone](https://modrinth.com/mod/log-begone) [1.0.8] - Remove mensagens de log desnecessárias.
-- [LuckPerms](https://luckperms.net/) [5.4.102] - Gerenciador de permissões para servidores.
 - [LuckPerms Placeholders](https://modrinth.com/mod/luckperms-placeholders) [5.4-SNAPSHOT] - Integra placeholders com LuckPerms.
+- [LuckPerms](https://luckperms.net/) [5.4.102] - Gerenciador de permissões para servidores.
 - [Maintenance Mode](https://mmode.fdd-docs.com/) [1.3.1] - Modo de manutenção para bloquear acessos.
+- [MixinTrace Reforged](https://modrinth.com/mod/mixintrace-reforged) [1.0.0-1.20.1] - Ferramenta de depuração para rastrear conflitos de mixins.
 - [No Random Ticks](https://modrinth.com/mod/no-random-ticks) [0.2-1.20.1] - Desativa ticks aleatórios para performance.
 - [Noisium](https://github.com/Steveplays28/noisium) [2.3.0+mc1.20-1.20.1] - Otimiza performance de geração de mundo.
 - [Observable](https://github.com/tasgon/observable) [4.4.1] - Monitora atividades de jogadores em tempo real.
@@ -142,18 +147,18 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 - [SkinRestorer](https://modrinth.com/mod/skinrestorer) [2.4.3+1.20-forge] - Restaura skins em servidores offline.
 - [SkinShuffle](https://modrinth.com/mod/skinshuffle) [2.4.0+1.20.1] - Permite trocar skins diretamente no jogo.
 - [Smoothchunk mod](https://modrinth.com/mod/smoothchunk) [1.20.1-4.1] - Suaviza carregamento de chunks no servidor.
+- [spark](https://modrinth.com/mod/l6YH9Als) [1.10.53] - Ferramenta de diagnóstico de performance.
 - [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) [1.1.2+forge.1cda73c] - Otimiza iluminação para performance.
 - [Starter Kit](https://serilum.com/mod/starter-kit) [7.4] - Fornece itens iniciais para novos jogadores.
 - [Styled Chat](https://pb4.eu) [2.2.4+1.20.1] - Personaliza formatação de chat no servidor.
 - [Styled Player List](https://pb4.eu) [3.1.1+1.20.1] - Customiza lista de jogadores no servidor.
-- [TT20](https://modrinth.com/mod/TT20/) [0.7.1] - Ferramentas de administração para servidores.
 - [Terralith](https://www.stardustlabs.net/) [2.5.4] - Expande overworld com novos biomas.
 - [Tick Stasis](https://modrinth.com/mod/tick-stasis) [1.1.1] - Pausa ticks do servidor em condições específicas.
+- [TT20](https://modrinth.com/mod/TT20/) [0.7.1] - Ferramentas de administração para servidores.
+- [Unsafe World Random Access Detector](https://modrinth.com/mod/uwrad) [1.1.0+forge] - Detecta acesso inseguro ao gerador de números aleatórios do mundo.
 - [Vanishmod](https://modrinth.com/mod/MihN2cw5) [1.1.18] - Torna admins invisíveis para outros jogadores.
+- [View Distance Fix](https://modrinth.com/mod/view-distance-fix) [1.20.1-1.0.0] - Corrige bugs relacionados à distância de visão no servidor.
 - [Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG) [1.0] - Teleporta pets com Waystones sem lead.
-- [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) [2.1.58-1.20.x] - Gera masmorras roguelike grandes.
 - [When Dungeons Arise: Seven Seas](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) [1.0.2] - Expande When Dungeons Arise com estruturas oceânicas.
+- [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) [2.1.58-1.20.x] - Gera masmorras roguelike grandes.
 - [World Border](https://serilum.com/mod/world-border) [4.8] - Define bordas de mundo personalizáveis.
-- [You Shall Not Spawn](https://modrinth.com/mod/you-shall-not-spawn) [2.0.2] - Controla spawn de mobs em áreas específicas.
-- [fastasyncworldsave mod](https://modrinth.com/mod/fastasyncworldsave) [1.20.1-2.6] - Acelera salvamento de mundos no servidor.
-- [spark](https://modrinth.com/mod/l6YH9Als) [1.10.53] - Ferramenta de diagnóstico de performance.
