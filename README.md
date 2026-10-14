@@ -1,256 +1,254 @@
 ### Obrigatórios
 Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionará.
 
-[Accelerated Decay](https://modrinth.com/mod/laX5CckD) [21.0.0]
-[Accessories](https://modrinth.com/mod/jtmvUHXj) [1.1.0-beta.53+1.21.1]
-[Ace's Spell Utils](https://modrinth.com/mod/7Jy4rK9m) [1.2.7.2-1.21.1]
-[AE2 Import Export Card](https://modrinth.com/mod/qelfSMnn) [1.21.1-1.9.1]
-[AE2 JEI Integration](https://www.curseforge.com/projects/1074338) [1.2.1]
-[Alex's Caves Continued Delight](https://modrinth.com/mod/7sC7Bn8p) [1.0.0]
-[Alex's Caves Continued](https://modrinth.com/mod/cO2CvXug) [1.1.1]
-[Alex's Mobs Continued Delight](https://modrinth.com/mod/iY124w4e) [1.0.1]
-[Alex's Mobs Continued](https://modrinth.com/mod/kYIaHHfw) [2.2.2]
-[Amendments](https://modrinth.com/mod/6iTJugQR) [1.21-2.1.10]
-[Apotheosis](https://modrinth.com/mod/rqFWfVlz) [8.9.0]
-[Apothic Enchanting](https://modrinth.com/mod/pL8MtgqY) [1.6.3]
-[Apothic Spawners](https://modrinth.com/mod/DfxVkOAO) [1.4.0]
-[Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3) [19.2.18]
-[Aquaculture 2](https://modrinth.com/mod/Vl1uNAuy) [2.7.21]
-[Aquaculture Delight](https://modrinth.com/mod/U9GJqWrI) [1.1.0]
-[Ars Nouveau](https://modrinth.com/mod/TKB6INcv) [5.13.3]
-[Ars Ocultas](https://modrinth.com/mod/Tsw8vbks) [2.6.1]
-[Artifacts](https://modrinth.com/mod/P0Mu4wcQ) [13.2.5]
-[Asterism Arcanum](https://modrinth.com/mod/XImLIVFt) [1.21.1-0.1.0]
-[Astral Sorcery](https://www.curseforge.com/projects/241721) [2.0.1]
-[Barbeque's Delight](https://modrinth.com/mod/rtu7uERF) [1.3.0]
-[Better Combat](https://modrinth.com/mod/5sy6g3kz) [2.4.0+1.21.1]
-[Better End](https://modrinth.com/mod/IcERKldh) [21.0.35]
-[Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G) [21.1.0.14]
-[Brazilian Delight](https://modrinth.com/mod/Bgz35D5U) [3.0.1]
-[Brewin' And Chewin'](https://modrinth.com/mod/hIu9KJTT) [4.5.0]
-[Camera Mod](https://modrinth.com/mod/oiuNWinn) [1.21.1-1.0.22]
-[Carry On](https://modrinth.com/mod/joEfVgkn) [2.2.6]
-[CarryOnExtend](https://modrinth.com/mod/JbqjOoQj) [1.5.2]
-[Cataclysm: Spellbooks](https://modrinth.com/mod/3FEg0A8D) [1.1.14-1.21]
-[Chipped](https://modrinth.com/mod/BAscRYKm) [4.0.2]
-[Combat Roll](https://modrinth.com/mod/wGKYL7st) [2.0.6+1.21.1]
-[Comforts](https://modrinth.com/mod/SaCpeal4) [9.0.5+1.21.1]
-[Compass to Map](https://modrinth.com/mod/Y6HhXts4) [2.0.4]
-[Connector Extras](https://modrinth.com/mod/FYpiwiBR) [1.12.1+1.21.1]
-[Construction Sticks](https://modrinth.com/mod/ooyjDLZt) [1.5.0]
-[Corpse](https://modrinth.com/mod/WrpuIfhw) [1.21.1-1.1.13]
-[Cosmetic Armor x Corpse Compat](https://modrinth.com/mod/VrbUxhCI) [4.0.1]
-[CosmeticArmorReworked](https://www.curseforge.com/projects/237307) [1.21.1-v1-neoforge]
-[Crate Delight](https://modrinth.com/mod/9rlXSyLg) [26.07.01-1.21-neoforge]
-[Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) [1.3.2]
-[Create Crafts & Additions](https://modrinth.com/mod/kU1G12Nn) [1.7.2]
-[Create Deco](https://modrinth.com/mod/sMvUb4Rb) [2.1.3]
-[Create Oh The Biomes We ve Gone Compat](https://modrinth.com/mod/BAEkFrvn) [${file.jarVersion}]
-[Create: Central Kitchen](https://modrinth.com/mod/btq68HMO) [2.6.2]
-[Create: Copycats+](https://modrinth.com/mod/UT2M39wf) [3.0.9+mc.1.21.1-neoforge]
-[Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV) [1.11.9]
-[Create: New Age](https://modrinth.com/mod/FTeXqI9v) [1.2.0+mc1.21.1]
-[Create: Structures Arise](https://modrinth.com/mod/9enMEvoc) [176.49.49]
-[Create](https://modrinth.com/mod/LNytGWDc) [6.0.10]
-[CreativeCore](https://modrinth.com/mod/creativecore) [2.13.50]
-[Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [4.0.6]
-[Decocraft](https://modrinth.com/mod/IZJSgKZe) [3.0.11]
-[Easy Anvils](https://modrinth.com/mod/OZBR5JT5) [21.1.0]
-[Easy NPC: Bundle](https://modrinth.com/mod/CgGEe1h3) [7.14.0]
-[Easy NPC: Config UI](https://modrinth.com/mod/uTGjf7vA) [7.14.0]
-[Easy NPC](https://modrinth.com/mod/Epm6R3P2) [7.14.0]
-[ElevatorMod](https://modrinth.com/mod/hi2dSXTu) [1.21.1-1.11.4]
-[Emotecraft](https://modrinth.com/mod/pZ2wrerK) [2.4.12]
-[Ender IO](https://modrinth.com/mod/49ZofO4f) [8.2.12-beta]
-[Enderman Overhaul](https://modrinth.com/mod/Lq6ojcWv) [2.0.3]
-[EnderStorage](https://modrinth.com/mod/BbrHg80P) [2.13.0.191]
-[Even Better Nether](https://modrinth.com/mod/ZSdhSrVt) [1.2.0]
-[EvilCraft](https://modrinth.com/mod/3ANq2btA) [1.2.98]
-[Expanded Delight](https://modrinth.com/mod/e9V6wFcR) [0.1.4]
-[Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) [1.21.1-3.4.0-neoforge]
-[Extreme Reactors](https://modrinth.com/mod/idkvShUy) [1.21.1-2.4.9]
-[Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1.14.1+kotlin.2.4.20]
-[Farmer's Delight](https://modrinth.com/mod/R2OftAxM) [1.3.4]
-[Farmer's Respite](https://modrinth.com/mod/AioQLjKj) [3.0.1]
-[FastFurnace](https://modrinth.com/mod/9X0318ev) [9.0.1]
-[Fire's Ender Expansion](https://www.curseforge.com/projects/1245989) [2.5.1]
-[Flux Networks](https://www.curseforge.com/projects/248020) [8.0.0]
-[Forbidden Arcanus](https://modrinth.com/mod/MdlnLS7Q) [2.6.1]
-[Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [21.1.6]
-[Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp) [0.116.15+2.3.5+1.21.1]
-[Fragmentum](https://modrinth.com/mod/49C5QgTK) [5.1.1]
-[FramedBlocks](https://modrinth.com/mod/wbgfS34j) [10.6.1]
-[FTB Chunks](https://www.curseforge.com/projects/314906) [2101.1.22]
-[FTB Library](https://www.curseforge.com/projects/404465) [2101.1.37]
-[FTB Teams](https://www.curseforge.com/projects/404468) [2101.1.11]
-[Functional Storage](https://modrinth.com/mod/cO40ZIg3) [1.21.1-1.5.7]
-[Gadgets Against Grind](https://modrinth.com/mod/IeYLjzpn) [1.21.1-5.2.0]
-[GlitchCore](https://modrinth.com/mod/s3dmwKy5) [2.1.0.2]
-[Handcrafted](https://modrinth.com/mod/pJmCFF0p) [4.0.3]
-[Ice And Fire Community Edition](https://www.curseforge.com/projects/1040076) [2.1.3]
-[Industrial Foregoing](https://modrinth.com/mod/lWxpUd04) [1.21-3.6.39]
-[Integrated Dungeons and Structures](https://modrinth.com/mod/Z8OZShAU) [1.13.7+1.21.1-neoforge]
-[IntegratedCrafting](https://modrinth.com/mod/qwpACdla) [1.7.2]
-[IntegratedDynamics](https://modrinth.com/mod/yYzdQHJI) [1.38.0]
-[IntegratedTerminals](https://modrinth.com/mod/HmLJoQ1K) [1.10.0]
-[IntegratedTunnels](https://modrinth.com/mod/Etqy1Omb) [1.13.0]
-[Iron Chests](https://modrinth.com/mod/P3iIrPH3) [1.21-neoforge-16.0.7]
-[Iron Furnaces](https://modrinth.com/mod/yPlaLxD1) [4.3.2]
-[Iron's Spells 'n Spellbooks](https://modrinth.com/mod/s4OWxYQQ) [1.21.1-3.16.3]
-[Item Obliterator](https://modrinth.com/mod/3ESR84kR) [2.3.0]
-[Journeymap-NeoForge](https://modrinth.com/mod/lfHFW1mp) [not a fabric mod]
-[JourneyMap-Teams](https://modrinth.com/mod/EV5wjtvP) [1.21.1-1.3.1]
-[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) [19.57.0.450]
-[L_Ender's Cataclysm 1.21.1](https://modrinth.com/mod/46KJle7n) [3.33]
-[Lightman's Currency](https://modrinth.com/mod/wvMc8AJt) [1.21-2.3.0.6]
-[Lithium](https://modrinth.com/mod/gvQqBUqZ) [0.15.4+mc1.21.1]
-[Lithostitched](https://modrinth.com/mod/XaDC71GB) [1.8.0]
-[Lootr](https://modrinth.com/mod/EltpO5cN) [1.21.1-1.11.38.127]
-[Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3.1.2]
-[Mahou Tsukai](https://modrinth.com/mod/7jOxn6qJ) [${version}]
-[Mekanism: Additions](https://modrinth.com/mod/a6F3uASn) [10.7.19]
-[Mekanism: Generators](https://modrinth.com/mod/OFVYKsAk) [10.7.19]
-[Mekanism: Tools](https://modrinth.com/mod/tqQpq1lt) [10.7.19]
-[Mekanism](https://modrinth.com/mod/Ce6I4WUE) [10.7.19]
-[Mermod](https://modrinth.com/mod/ORiydwz3) [3.3.2]
-[MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN) [1.21-2.1.2]
-[Mob Grinding Utils](https://www.curseforge.com/projects/254241) [1.1.10+mc1.21.1]
-[More Delight](https://modrinth.com/mod/znHQQtuU) [26.05.20a-1.21-neoforge]
-[Mowzie's Cataclysm](https://modrinth.com/mod/7UsJsd1y) [1.2.2]
-[Mowzie's Mobs](https://modrinth.com/mod/BFbX9xcm) [1.8.2]
-[MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/projects/897116) [1.0.22]
-[Mystical Agradditions](https://modrinth.com/mod/pl0jGXIx) [8.0.15]
-[Mystical Agriculture](https://modrinth.com/mod/C95ReXie) [8.0.28]
-[Mystical Customization](https://modrinth.com/mod/lNK9A4rh) [6.0.2]
-[Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1.21.1-3.4.0-neoforge]
-[Occultism](https://modrinth.com/mod/sbJh4AZw) [1.224.4]
-[Ocean's Delight](https://modrinth.com/mod/DGiq4ZSW) [1.0.4]
-[Pam's HarvestCraft - Crops](https://modrinth.com/mod/5xO6VNlk) [1.0.0]
-[Pam's HarvestCraft - Food Core](https://modrinth.com/mod/Z9OywhE4) [1.0.2]
-[Pam's HarvestCraft - Food Extended](https://modrinth.com/mod/bdPeAbPS) [1.0.0]
-[Pam's HarvestCraft - Trees](https://modrinth.com/mod/KDzWXxuG) [1.0.4]
-[Paraglider](https://modrinth.com/mod/esqWA0aQ) [21.1.5]
-[Patchouli](https://modrinth.com/mod/nU0bVIaL) [1.21.1-93-NEOFORGE]
-[Pipez](https://modrinth.com/mod/iRmWy6ga) [1.21.1-1.2.31]
-[PlayerRevive](https://modrinth.com/mod/ABIMzABM) [2.1.2]
-[Polymorph](https://modrinth.com/mod/tagwiZkJ) [1.2.0+1.21.1]
-[Prometheus](https://modrinth.com/mod/7Z7a9JyH) [1.2.5]
-[Quark](https://modrinth.com/mod/qnQsVE2z) [4.1-486]
-[Quick Skin](https://modrinth.com/mod/zAIE84Ch) [3.0.1]
-[Refined Storage - JEI Integration](https://modrinth.com/mod/VzR5wiLo) [1.0.0]
-[Refined Storage](https://modrinth.com/mod/KDvYkUg3) [2.0.9]
-[Regions Unexplored](https://modrinth.com/mod/Tkikq67H) [0.6.2]
-[Relics](https://modrinth.com/mod/OCJRPujW) [0.12.8]
-[Reliquary Reincarnations](https://modrinth.com/mod/fQO83PId) [2.0.80]
-[RFToolsBase](https://modrinth.com/mod/hIO8IsD8) [1.21-6.0.11]
-[RFToolsBuilder](https://modrinth.com/mod/e0IclJLr) [1.21-7.0.7]
-[RFToolsUtility](https://modrinth.com/mod/7n3HbHSE) [1.21-7.0.12]
-[Sable](https://modrinth.com/mod/T9PomCSv) [2.0.6]
-[SecurityCraft](https://modrinth.com/mod/v8jzRtAt) [1.10.2.1]
-[Simple Magnets](https://modrinth.com/mod/YyNQVpOu) [1.1.12+c]
-[Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) [1.21.1-2.6.24]
-[SimpleHats](https://modrinth.com/mod/iSkQCp6b) [0.4.0]
-[Simply Swords](https://modrinth.com/mod/bK3Ubu9p) [1.70.2-1.21.1]
-[Sinytra Connector](https://modrinth.com/mod/u58R1TMW) [IITF0PRC]
-[Somake](https://modrinth.com/mod/uoNbtac8) [1.0.8]
-[Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b) [3.26.7]
-[Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1.5.5]
-[Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1.6.1]
-[Soul Fire'd](https://modrinth.com/mod/d6MhxwRo) [6.1.0]
-[Storage Drawers](https://modrinth.com/mod/guitPqEi) [13.11.4]
-[Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1.21.1-3.9.9]
-[The Aether](https://modrinth.com/mod/YhmgMVyu) [1.5.10]
-[The Twilight Forest](https://www.curseforge.com/projects/227639) [4.8.3345]
-[Torchmaster](https://modrinth.com/mod/Tl8ESrhX) [21.1.13]
-[Towns and Towers](https://modrinth.com/mod/DjLobEOy) [1.13.11]
-[TrashSlot](https://modrinth.com/mod/vRYk0bv7) [21.1.11]
-[Tropicraft](https://modrinth.com/mod/20zpzIT1) [9.8.1]
-[Twilight Forest - Dungeons & Villages](https://modrinth.com/mod/eDeSn4Ds) [2.0.3]
-[Veggies Delight](https://modrinth.com/mod/emQ94xri) [1.9.3]
-[WaterFrames](https://modrinth.com/mod/eBzFuVTM) [2.1.23]
-[WaterVision](https://modrinth.com/mod/dGGbEGoV) [0.1.0-alpha]
-[Waystones](https://modrinth.com/mod/LOpKHB2A) [21.1.46]
-[What Are They Up To](https://modrinth.com/mod/AtB5mHky) [1.21.0-1.2.7]
-[WorldWeaver](https://modrinth.com/mod/R8uGDQpB) [21.0.26]
-[Xray Snitch](https://modrinth.com/mod/AKunSbDQ) [1.3]
-[YUNG's API](https://modrinth.com/mod/Ua7DFN59) [1.21.1-NeoForge-5.1.9]
+| Nome                                                                                  | Versao                     |
+| :------------------------------------------------------------------------------------ | :------------------------- |
+| [Accelerated Decay](https://modrinth.com/mod/laX5CckD)                                | [21.0.0]                   |
+| [Accessories](https://modrinth.com/mod/jtmvUHXj)                                      | [1.1.0-beta.53+1.21.1]     |
+| [Ace's Spell Utils](https://modrinth.com/mod/7Jy4rK9m)                                | [1.2.7.2-1.21.1]           |
+| [AE2 Import Export Card](https://modrinth.com/mod/qelfSMnn)                           | [1.21.1-1.9.1]             |
+| [AE2 JEI Integration](https://www.curseforge.com/projects/1074338)                    | [1.2.1]                    |
+| [Alex's Caves Continued Delight](https://modrinth.com/mod/7sC7Bn8p)                   | [1.0.0]                    |
+| [Alex's Caves Continued](https://modrinth.com/mod/cO2CvXug)                           | [1.1.1]                    |
+| [Alex's Mobs Continued Delight](https://modrinth.com/mod/iY124w4e)                    | [1.0.1]                    |
+| [Alex's Mobs Continued](https://modrinth.com/mod/kYIaHHfw)                            | [2.2.2]                    |
+| [Amendments](https://modrinth.com/mod/6iTJugQR)                                       | [1.21-2.1.10]              |
+| [Apotheosis](https://modrinth.com/mod/rqFWfVlz)                                       | [8.9.0]                    |
+| [Apothic Enchanting](https://modrinth.com/mod/pL8MtgqY)                               | [1.6.3]                    |
+| [Apothic Spawners](https://modrinth.com/mod/DfxVkOAO)                                 | [1.4.0]                    |
+| [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3)                            | [19.2.18]                  |
+| [Aquaculture 2](https://modrinth.com/mod/Vl1uNAuy)                                    | [2.7.21]                   |
+| [Aquaculture Delight](https://modrinth.com/mod/U9GJqWrI)                              | [1.1.0]                    |
+| [Ars Nouveau](https://modrinth.com/mod/TKB6INcv)                                      | [5.13.3]                   |
+| [Ars Ocultas](https://modrinth.com/mod/Tsw8vbks)                                      | [2.6.1]                    |
+| [Artifacts](https://modrinth.com/mod/P0Mu4wcQ)                                        | [13.2.5]                   |
+| [Asterism Arcanum](https://modrinth.com/mod/XImLIVFt)                                 | [1.21.1-0.1.0]             |
+| [Astral Sorcery](https://www.curseforge.com/projects/241721)                          | [2.0.1]                    |
+| [Barbeque's Delight](https://modrinth.com/mod/rtu7uERF)                               | [1.3.0]                    |
+| [Better Combat](https://modrinth.com/mod/5sy6g3kz)                                    | [2.4.0+1.21.1]             |
+| [Better End](https://modrinth.com/mod/IcERKldh)                                       | [21.0.35]                  |
+| [Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G)                                 | [21.1.0.14]                |
+| [Brazilian Delight](https://modrinth.com/mod/Bgz35D5U)                                | [3.0.1]                    |
+| [Brewin' And Chewin'](https://modrinth.com/mod/hIu9KJTT)                              | [4.5.0]                    |
+| [Building Gadgets 2](https://www.curseforge.com/projects/298187)                      | [1.3.9]                    |
+| [Camera Mod](https://modrinth.com/mod/oiuNWinn)                                       | [1.21.1-1.0.22]            |
+| [Carry On](https://modrinth.com/mod/joEfVgkn)                                         | [2.2.6]                    |
+| [CarryOnExtend](https://modrinth.com/mod/JbqjOoQj)                                    | [1.5.2]                    |
+| [Cataclysm: Spellbooks](https://modrinth.com/mod/3FEg0A8D)                            | [1.1.14-1.21]              |
+| [Chipped](https://modrinth.com/mod/BAscRYKm)                                          | [4.0.2]                    |
+| [Combat Roll](https://modrinth.com/mod/wGKYL7st)                                      | [2.0.6+1.21.1]             |
+| [Comforts](https://modrinth.com/mod/SaCpeal4)                                         | [9.0.5+1.21.1]             |
+| [Compass to Map](https://modrinth.com/mod/Y6HhXts4)                                   | [2.0.4]                    |
+| [Connector Extras](https://modrinth.com/mod/FYpiwiBR)                                 | [1.12.1+1.21.1]            |
+| [Construction Sticks](https://modrinth.com/mod/ooyjDLZt)                              | [1.5.0]                    |
+| [Corpse](https://modrinth.com/mod/WrpuIfhw)                                           | [1.21.1-1.1.13]            |
+| [Cosmetic Armor x Corpse Compat](https://modrinth.com/mod/VrbUxhCI)                   | [4.0.1]                    |
+| [CosmeticArmorReworked](https://www.curseforge.com/projects/237307)                   | [1.21.1-v1-neoforge]       |
+| [Crate Delight](https://modrinth.com/mod/9rlXSyLg)                                    | [26.07.01-1.21-neoforge]   |
+| [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19)                               | [1.3.2]                    |
+| [Create Crafts & Additions](https://modrinth.com/mod/kU1G12Nn)                        | [1.7.2]                    |
+| [Create Deco](https://modrinth.com/mod/sMvUb4Rb)                                      | [2.1.3]                    |
+| [Create Oh The Biomes We ve Gone Compat](https://modrinth.com/mod/BAEkFrvn)           | [${file.jarVersion}]       |
+| [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO)                          | [2.6.2]                    |
+| [Create: Copycats+](https://modrinth.com/mod/UT2M39wf)                                | [3.0.9+mc.1.21.1-neoforge] |
+| [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV)                             | [1.11.9]                   |
+| [Create: New Age](https://modrinth.com/mod/FTeXqI9v)                                  | [1.2.0+mc1.21.1]           |
+| [Create: Structures Arise](https://modrinth.com/mod/9enMEvoc)                         | [176.49.49]                |
+| [Create](https://modrinth.com/mod/LNytGWDc)                                           | [6.0.10]                   |
+| [CreativeCore](https://modrinth.com/mod/OsZiaDHq)                                     | [2.13.50]                  |
+| [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93)                                 | [4.0.6]                    |
+| [Decocraft](https://modrinth.com/mod/IZJSgKZe)                                        | [3.0.11]                   |
+| [Easy Anvils](https://modrinth.com/mod/OZBR5JT5)                                      | [21.1.0]                   |
+| [Easy NPC: Bundle](https://modrinth.com/mod/CgGEe1h3)                                 | [7.14.0]                   |
+| [Easy NPC: Config UI](https://modrinth.com/mod/uTGjf7vA)                              | [7.14.0]                   |
+| [Easy NPC](https://modrinth.com/mod/Epm6R3P2)                                         | [7.14.0]                   |
+| [ElevatorMod](https://modrinth.com/mod/hi2dSXTu)                                      | [1.21.1-1.11.4]            |
+| [Emotecraft](https://modrinth.com/mod/pZ2wrerK)                                       | [2.4.12]                   |
+| [Ender IO](https://modrinth.com/mod/49ZofO4f)                                         | [8.2.12-beta]              |
+| [Enderman Overhaul](https://modrinth.com/mod/Lq6ojcWv)                                | [2.0.3]                    |
+| [EnderStorage](https://modrinth.com/mod/BbrHg80P)                                     | [2.13.0.191]               |
+| [Even Better Nether](https://modrinth.com/mod/ZSdhSrVt)                               | [1.2.0]                    |
+| [EvilCraft](https://modrinth.com/mod/3ANq2btA)                                        | [1.2.98]                   |
+| [Expanded Delight](https://modrinth.com/mod/e9V6wFcR)                                 | [0.1.4]                    |
+| [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8)                               | [1.21.1-3.4.0-neoforge]    |
+| [Extreme Reactors](https://modrinth.com/mod/idkvShUy)                                 | [1.21.1-2.4.9]             |
+| [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)                           | [1.14.1+kotlin.2.4.20]     |
+| [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)                                 | [1.3.4]                    |
+| [Farmer's Respite](https://modrinth.com/mod/AioQLjKj)                                 | [3.0.1]                    |
+| [FastFurnace](https://modrinth.com/mod/9X0318ev)                                      | [9.0.1]                    |
+| [Fire's Ender Expansion](https://www.curseforge.com/projects/1245989)                 | [2.5.1]                    |
+| [Flux Networks](https://www.curseforge.com/projects/248020)                           | [8.0.0]                    |
+| [Forbidden Arcanus](https://modrinth.com/mod/MdlnLS7Q)                                | [2.6.1]                    |
+| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps)                            | [21.1.6]                   |
+| [Forgified Fabric API](https://modrinth.com/mod/Aqlf1Shp)                             | [0.116.15+2.3.5+1.21.1]    |
+| [Fragmentum](https://modrinth.com/mod/49C5QgTK)                                       | [5.1.1]                    |
+| [FramedBlocks](https://modrinth.com/mod/wbgfS34j)                                     | [10.6.1]                   |
+| [Functional Storage](https://modrinth.com/mod/cO40ZIg3)                               | [1.21.1-1.5.7]             |
+| [Gadgets Against Grind](https://modrinth.com/mod/IeYLjzpn)                            | [1.21.1-5.2.0]             |
+| [GlitchCore](https://modrinth.com/mod/s3dmwKy5)                                       | [2.1.0.2]                  |
+| [Handcrafted](https://modrinth.com/mod/pJmCFF0p)                                      | [4.0.3]                    |
+| [Ice And Fire Community Edition](https://www.curseforge.com/projects/1040076)         | [2.1.3]                    |
+| [Industrial Foregoing](https://modrinth.com/mod/lWxpUd04)                             | [1.21-3.6.39]              |
+| [Integrated Dungeons and Structures](https://modrinth.com/mod/Z8OZShAU)               | [1.13.7+1.21.1-neoforge]   |
+| [IntegratedCrafting](https://modrinth.com/mod/qwpACdla)                               | [1.7.2]                    |
+| [IntegratedDynamics](https://modrinth.com/mod/yYzdQHJI)                               | [1.38.0]                   |
+| [IntegratedTerminals](https://modrinth.com/mod/HmLJoQ1K)                              | [1.10.0]                   |
+| [IntegratedTunnels](https://modrinth.com/mod/Etqy1Omb)                                | [1.13.0]                   |
+| [Iron Chests](https://modrinth.com/mod/P3iIrPH3)                                      | [1.21-neoforge-16.0.7]     |
+| [Iron Furnaces](https://modrinth.com/mod/yPlaLxD1)                                    | [4.3.2]                    |
+| [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/s4OWxYQQ)                      | [1.21.1-3.16.3]            |
+| [Item Obliterator](https://modrinth.com/mod/3ESR84kR)                                 | [2.3.0]                    |
+| [Journeymap-NeoForge](https://modrinth.com/mod/lfHFW1mp)                              | [not a fabric mod]         |
+| [JourneyMap-Teams](https://modrinth.com/mod/EV5wjtvP)                                 | [1.21.1-1.3.1]             |
+| [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)                                | [19.57.0.450]              |
+| [L_Ender's Cataclysm 1.21.1](https://modrinth.com/mod/46KJle7n)                       | [3.33]                     |
+| [Lightman's Currency](https://modrinth.com/mod/wvMc8AJt)                              | [1.21-2.3.0.6]             |
+| [Lithium](https://modrinth.com/mod/gvQqBUqZ)                                          | [0.15.4+mc1.21.1]          |
+| [Lithostitched](https://modrinth.com/mod/XaDC71GB)                                    | [1.8.0]                    |
+| [Lootr](https://modrinth.com/mod/EltpO5cN)                                            | [1.21.1-1.11.38.127]       |
+| [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O)                                  | [3.1.2]                    |
+| [Mahou Tsukai](https://modrinth.com/mod/7jOxn6qJ)                                     | [${version}]               |
+| [Mekanism: Additions](https://modrinth.com/mod/a6F3uASn)                              | [10.7.19]                  |
+| [Mekanism: Generators](https://modrinth.com/mod/OFVYKsAk)                             | [10.7.19]                  |
+| [Mekanism: Tools](https://modrinth.com/mod/tqQpq1lt)                                  | [10.7.19]                  |
+| [Mekanism](https://modrinth.com/mod/Ce6I4WUE)                                         | [10.7.19]                  |
+| [Mermod](https://modrinth.com/mod/ORiydwz3)                                           | [3.3.2]                    |
+| [MmmMmmMmmMmm](https://modrinth.com/mod/Adega8YN)                                     | [1.21-2.1.2]               |
+| [Mob Grinding Utils](https://www.curseforge.com/projects/254241)                      | [1.1.10+mc1.21.1]          |
+| [More Delight](https://modrinth.com/mod/znHQQtuU)                                     | [26.05.20a-1.21-neoforge]  |
+| [Mowzie's Cataclysm](https://modrinth.com/mod/7UsJsd1y)                               | [1.2.2]                    |
+| [Mowzie's Mobs](https://modrinth.com/mod/BFbX9xcm)                                    | [1.8.2]                    |
+| [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/projects/897116) | [1.0.22]                   |
+| [Mystical Agradditions](https://modrinth.com/mod/pl0jGXIx)                            | [8.0.15]                   |
+| [Mystical Agriculture](https://modrinth.com/mod/C95ReXie)                             | [8.0.28]                   |
+| [Mystical Customization](https://modrinth.com/mod/lNK9A4rh)                           | [6.0.2]                    |
+| [Nature's Compass](https://modrinth.com/mod/fPetb5Kh)                                 | [1.21.1-3.4.0-neoforge]    |
+| [Occultism](https://modrinth.com/mod/sbJh4AZw)                                        | [1.224.4]                  |
+| [Ocean's Delight](https://modrinth.com/mod/DGiq4ZSW)                                  | [1.0.4]                    |
+| [Pam's HarvestCraft - Crops](https://modrinth.com/mod/5xO6VNlk)                       | [1.0.0]                    |
+| [Pam's HarvestCraft - Food Core](https://modrinth.com/mod/Z9OywhE4)                   | [1.0.2]                    |
+| [Pam's HarvestCraft - Food Extended](https://modrinth.com/mod/bdPeAbPS)               | [1.0.0]                    |
+| [Pam's HarvestCraft - Trees](https://modrinth.com/mod/KDzWXxuG)                       | [1.0.4]                    |
+| [Paraglider](https://modrinth.com/mod/esqWA0aQ)                                       | [21.1.5]                   |
+| [Patchouli](https://modrinth.com/mod/nU0bVIaL)                                        | [1.21.1-93-NEOFORGE]       |
+| [Petting](https://modrinth.com/mod/vf91JXwf)                                          | [4.2.2]                    |
+| [Pipez](https://modrinth.com/mod/iRmWy6ga)                                            | [1.21.1-1.2.31]            |
+| [PlayerRevive](https://modrinth.com/mod/ABIMzABM)                                     | [2.1.2]                    |
+| [Polymorph](https://modrinth.com/mod/tagwiZkJ)                                        | [1.2.0+1.21.1]             |
+| [Prometheus](https://modrinth.com/mod/7Z7a9JyH)                                       | [1.2.5]                    |
+| [Quark](https://modrinth.com/mod/qnQsVE2z)                                            | [4.1-486]                  |
+| [Quick Skin](https://modrinth.com/mod/zAIE84Ch)                                       | [3.0.1]                    |
+| [Refined Storage - JEI Integration](https://modrinth.com/mod/VzR5wiLo)                | [1.0.0]                    |
+| [Refined Storage](https://modrinth.com/mod/KDvYkUg3)                                  | [2.0.9]                    |
+| [Regions Unexplored](https://modrinth.com/mod/Tkikq67H)                               | [0.6.2]                    |
+| [Relics](https://modrinth.com/mod/OCJRPujW)                                           | [0.12.8]                   |
+| [Reliquary Reincarnations](https://modrinth.com/mod/fQO83PId)                         | [2.0.80]                   |
+| [RFToolsBase](https://modrinth.com/mod/hIO8IsD8)                                      | [1.21-6.0.11]              |
+| [RFToolsBuilder](https://modrinth.com/mod/e0IclJLr)                                   | [1.21-7.0.7]               |
+| [RFToolsUtility](https://modrinth.com/mod/7n3HbHSE)                                   | [1.21-7.0.12]              |
+| [Sable](https://modrinth.com/mod/T9PomCSv)                                            | [2.0.6]                    |
+| [SecurityCraft](https://modrinth.com/mod/v8jzRtAt)                                    | [1.10.2.1]                 |
+| [Simple Magnets](https://modrinth.com/mod/YyNQVpOu)                                   | [1.1.12+c]                 |
+| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1)                                | [1.21.1-2.6.24]            |
+| [SimpleHats](https://modrinth.com/mod/iSkQCp6b)                                       | [0.4.0]                    |
+| [Simply Swords](https://modrinth.com/mod/bK3Ubu9p)                                    | [1.70.2-1.21.1]            |
+| [Sinytra Connector](https://modrinth.com/mod/u58R1TMW)                                | [IITF0PRC]                 |
+| [Somake](https://modrinth.com/mod/uoNbtac8)                                           | [1.0.8]                    |
+| [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b)                          | [3.26.7]                   |
+| [Sophisticated Core](https://modrinth.com/mod/nmoqTijg)                               | [1.5.5]                    |
+| [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f)                            | [1.6.1]                    |
+| [Soul Fire'd](https://modrinth.com/mod/d6MhxwRo)                                      | [6.1.0]                    |
+| [Storage Drawers](https://modrinth.com/mod/guitPqEi)                                  | [13.11.4]                  |
+| [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)                                  | [1.21.1-3.9.9]             |
+| [The Aether](https://modrinth.com/mod/YhmgMVyu)                                       | [1.5.10]                   |
+| [The Twilight Forest](https://www.curseforge.com/projects/227639)                     | [4.8.3345]                 |
+| [Torchmaster](https://modrinth.com/mod/Tl8ESrhX)                                      | [21.1.13]                  |
+| [Towns and Towers](https://modrinth.com/mod/DjLobEOy)                                 | [1.13.11]                  |
+| [TrashSlot](https://modrinth.com/mod/vRYk0bv7)                                        | [21.1.11]                  |
+| [Twilight Forest - Dungeons & Villages](https://modrinth.com/mod/eDeSn4Ds)            | [2.0.3]                    |
+| [Veggies Delight](https://modrinth.com/mod/emQ94xri)                                  | [1.9.3]                    |
+| [WaterFrames](https://modrinth.com/mod/eBzFuVTM)                                      | [2.1.23]                   |
+| [WaterVision](https://modrinth.com/mod/dGGbEGoV)                                      | [0.1.0-alpha]              |
+| [Waystones](https://modrinth.com/mod/LOpKHB2A)                                        | [21.1.46]                  |
+| [What Are They Up To](https://modrinth.com/mod/AtB5mHky)                              | [1.21.0-1.2.7]             |
+| [WorldWeaver](https://modrinth.com/mod/R8uGDQpB)                                      | [21.0.26]                  |
+| [Xray Snitch](https://modrinth.com/mod/AKunSbDQ)                                      | [1.3]                      |
+| [YUNG's API](https://modrinth.com/mod/Ua7DFN59)                                       | [1.21.1-NeoForge-5.1.9]    |
 
 ### Mods Opcionais
 Estes mods são para melhorar a estética, jogabilidade ou pequenas mecânicas do jogo. Eles não são obrigatórios para logar no servidor.
 
-[AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3.0.9+mc1.21]
-[Durability Tooltip](https://modrinth.com/mod/smUP7V3r) [1.2.0]
-[EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) [21.1.11]
-[Jade Addons](https://modrinth.com/mod/xuDOzCLy) [6.1.2+neoforge]
-[Jade](https://modrinth.com/mod/nvQzSEkH) [15.10.6+neoforge]
-[Just Enough Breeding](https://modrinth.com/mod/9Pk89J3g) [3.3.1]
-[Just Enough Professions (JEP)](https://modrinth.com/mod/kB56GtWA) [4.0.5]
-[Ping Wheel](https://modrinth.com/mod/QQXAdCzh) [1.12.2]
+| Nome                                                               | Versao             |
+| :------------------------------------------------------------------ | :------------------ |
+| [AppleSkin](https://modrinth.com/mod/EsAfCjCV)                     | [3.0.9+mc1.21]     |
+| [Durability Tooltip](https://modrinth.com/mod/smUP7V3r)            | [1.2.0]            |
+| [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC)       | [21.1.11]          |
+| [FallingTree](https://modrinth.com/mod/Fb4jn8m6)                   | [1.21.1.11]        |
+| [Jade Addons](https://modrinth.com/mod/xuDOzCLy)                   | [6.1.2+neoforge]   |
+| [Jade](https://modrinth.com/mod/nvQzSEkH)                          | [15.10.6+neoforge] |
+| [Just Enough Breeding](https://modrinth.com/mod/9Pk89J3g)          | [3.3.1]            |
+| [Just Enough Professions (JEP)](https://modrinth.com/mod/kB56GtWA) | [4.0.5]            |
+| [Ping Wheel](https://modrinth.com/mod/QQXAdCzh)                    | [1.12.2]           |
 
 ### Somente Servidor
 Estes mods são utilitários ou otimizações que só devem serem instaladas no servidor.
 
-[AI-Improvements](https://modrinth.com/mod/DSVgwcji) [0.5.3]
-[BanHammer](https://modrinth.com/mod/Wpqg0ciI) [0.11.1+1.21]
-[BetterEndCities-BetterEnd-1.21](https://www.curseforge.com/projects/959460) [1.21]
-[CalcMod: NeoForged](https://modrinth.com/mod/7uxk5PIo) [1.4.2]
-[Chunky](https://modrinth.com/mod/fALzjamp) [1.4.23]
-[Clumps](https://modrinth.com/mod/Wnxd13zP) [19.0.0.1]
-[Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1) [4.0.1]
-[Crash Utilities](https://www.curseforge.com/projects/371813) [9.0.4]
-[Despawn Tweaks](https://modrinth.com/mod/ahQrpeXp) [1.0.0]
-[Dungeon Crawl](https://modrinth.com/mod/q0rRg4lH) [2.3.17]
-[Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) [1-v4.4.4]
-[Essential Commands](https://modrinth.com/mod/6VdDUivB) [0.35.2-mc1.21]
-[fastasyncworldsave mod](https://www.curseforge.com/projects/951499) [2.6]
-[Flan](https://modrinth.com/mod/Si383TIH) [1.21.1-1.12.8-neoforge]
-[GriefLogger](https://modrinth.com/mod/8oGVUFuX) [1.2.10-1.21.1]
-[Harvest with ease](https://modrinth.com/mod/W4Ajthd2) [9.4.0]
-[Hazen N Stuff](https://modrinth.com/mod/I94FeWYD) [1.4.0.14]
-[HazentouveLib](https://modrinth.com/mod/nZaIUw7C) [1.0.9]
-[Immersive Optimization](https://modrinth.com/mod/vNZgQmjg) [0.2.0]
-[Inv View](https://modrinth.com/mod/RXM1nxge) [4.2.1]
-[Krypton FNP](https://modrinth.com/mod/JkxWVYwU) [0.2.28.1-1.21.1]
-[Ksyxis](https://modrinth.com/mod/2ecVyZ49) [1.4.5]
-[Leashable Players](https://modrinth.com/mod/BKyMf6XK) [1.1.0]
-[Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) [21.1.1]
-[Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) [1.5.0]
-[Log Begone](https://modrinth.com/mod/9ON3zv6e) [1.0.3]
-[Maintenance Mode](https://modrinth.com/mod/QOkEkSap) [1.3.4]
-[MixAuth](https://modrinth.com/mod/GzSiVPHb) [1.3.3] 
-[Monsters & Spellbooks](https://www.curseforge.com/projects/1428928) [0.0.16.3]
-[NetherPortalFix](https://modrinth.com/mod/nPZr02ET) [21.1.1]
-[No Random Ticks](https://modrinth.com/mod/K2uLi5au) [0.4-1.21.1]
-[Noisium](https://modrinth.com/mod/KuNKN7d2) [2.3.0+mc1.21-1.21.1]
-[Observable](https://modrinth.com/mod/VYRu7qmG) [5.4.4]
-[PacketFixer](https://modrinth.com/mod/c7m1mi73) [3.3.1]
-[Saturn](https://modrinth.com/mod/2eT495vq) [0.1.5]
-[Server Chat Log History](https://modrinth.com/mod/HZ6y1yNV) [1.10+1.21.1]
-[ServerCore](https://modrinth.com/mod/4WWQxlQP) [1.5.19+1.21.1]
-[Simple Discord Link](https://modrinth.com/mod/Sh0YauEf) [3.4.5]
-[SkinRestorer](https://modrinth.com/mod/ghrZDhGW) [2.11.0+1.21-neoforge]
-[SkinShuffle](https://modrinth.com/mod/3s19I5jr) [2.9.1+1.21]
-[Smoothchunk mod](https://www.curseforge.com/projects/582327) [4.1]
-[Spark](https://modrinth.com/mod/l6YH9Als) [1.10.124]
-[Starter Kit](https://modrinth.com/mod/6L3ydNi8) [8.3]
-[Structory](https://modrinth.com/mod/aKCwCJlY) [1.3.17]
-[Styled Chat](https://modrinth.com/mod/doqSKB0e) [2.6.1+1.21]
-[Styled Player List](https://modrinth.com/mod/DQIfKUHf) [3.5.1+1.21]
-[Terralith](https://modrinth.com/mod/8oi3bsk5) [2.6.2]
-[Tick Stasis](https://modrinth.com/mod/t6XBQ2xn) [1.1.1]
-[TT20](https://modrinth.com/mod/YS3ZignI) [0.8.5]
-[Unsafe World Random Access Detector](https://modrinth.com/mod/MsGuTgPJ) [1.1.3+neoforge]
-[Vanishmod](https://modrinth.com/mod/MihN2cw5) [1.1.21]
-[View Distance Fix](https://modrinth.com/mod/nxrXbh5K) [1.21.1-1.0.2]
-[Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG) [1.2-neoforge-1.21.1]
-[When Dungeons Arise: Seven Seas](https://modrinth.com/mod/ZsrrjDbP) [1.0.4]
-[When Dungeons Arise](https://modrinth.com/mod/8DfbfASn) [2.1.68]
-[World Border](https://modrinth.com/mod/nN96GjON) [5.0]
-[YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) [1.21.1-NeoForge-4.1.5]
-[YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) [1.21.1-NeoForge-5.1.4]
-[YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) [1.21.1-NeoForge-3.1.2]
-[YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) [1.21.1-NeoForge-3.1.2]
-[YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) [1.21.1-NeoForge-5.1.1]
-[YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) [1.21.1-NeoForge-3.1.5]
-[YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) [1.21.1-NeoForge-4.1.2]
-[YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) [1.21.1-NeoForge-5.1.3]
+| Nome                                                                         | Versao                   |
+| :--------------------------------------------------------------------------- | :----------------------- |
+| [BanHammer](https://modrinth.com/mod/Wpqg0ciI)                               | [0.11.1+1.21]            |
+| [BetterEndCities-BetterEnd-1.21](https://www.curseforge.com/projects/959460) | [1.21]                   |
+| [CalcMod: NeoForged](https://modrinth.com/mod/7uxk5PIo)                      | [1.4.2]                  |
+| [Chunky](https://modrinth.com/mod/fALzjamp)                                  | [1.4.23]                 |
+| [Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1)             | [4.0.1]                  |
+| [Crash Utilities](https://www.curseforge.com/projects/371813)                | [9.0.4]                  |
+| [Dungeon Crawl](https://modrinth.com/mod/q0rRg4lH)                           | [2.3.17]                 |
+| [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww)                    | [1-v4.4.4]               |
+| [Easy Authentication Mod](https://modrinth.com/mod/aZj58GfX)                 | [3.3.6]                  |
+| [Essential Commands](https://modrinth.com/mod/6VdDUivB)                      | [0.35.2-mc1.21]          |
+| [fastasyncworldsave mod](https://www.curseforge.com/projects/951499)         | [2.6]                    |
+| [Flan](https://modrinth.com/mod/Si383TIH)                                    | [1.21.1-1.12.8-neoforge] |
+| [GriefLogger](https://modrinth.com/mod/8oGVUFuX)                             | [1.2.10-1.21.1]          |
+| [Harvest with ease](https://modrinth.com/mod/W4Ajthd2)                       | [9.4.0]                  |
+| [Hazen N Stuff](https://modrinth.com/mod/I94FeWYD)                           | [1.4.0.14]               |
+| [HazentouveLib](https://modrinth.com/mod/nZaIUw7C)                           | [1.0.9]                  |
+| [Inv View](https://modrinth.com/mod/RXM1nxge)                                | [4.2.1]                  |
+| [Leashable Players](https://modrinth.com/mod/BKyMf6XK)                       | [1.1.0]                  |
+| [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV)                          | [21.1.1]                 |
+| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)                          | [1.5.0]                  |
+| [Log Begone](https://modrinth.com/mod/9ON3zv6e)                              | [1.0.3]                  |
+| [LuckPerms Placeholders](https://luckperms.net/wiki/Placeholders) | [5.5-SNAPSHOT] |
+| [LuckPerms](https://modrinth.com/mod/Vebnzrzj)                               | [5.4.150]                |
+| [Maintenance Mode](https://modrinth.com/mod/QOkEkSap)                        | [1.3.4]                  |
+| [MixinTrace reloaded [NEOFORGE]](https://modrinth.com/mod/wx2WW8va)          | [1.1.0]                  |
+| [Monsters & Spellbooks](https://www.curseforge.com/projects/1428928)         | [0.0.16.3]               |
+| [NetherPortalFix](https://modrinth.com/mod/nPZr02ET)                         | [21.1.1]                 |
+| [No Random Ticks](https://modrinth.com/mod/K2uLi5au)                         | [0.4-1.21.1]             |
+| [Observable](https://modrinth.com/mod/VYRu7qmG)                              | [5.4.4]                  |
+| [Server Chat Log History](https://modrinth.com/mod/HZ6y1yNV)                 | [1.10+1.21.1]            |
+| [Simple Discord Link](https://modrinth.com/mod/Sh0YauEf)                     | [3.4.5]                  |
+| [SkinRestorer](https://modrinth.com/mod/ghrZDhGW)                            | [2.11.0+1.21-neoforge]   |
+| [SkinShuffle](https://modrinth.com/mod/3s19I5jr)                             | [2.9.1+1.21]             |
+| [Smoothchunk mod](https://www.curseforge.com/projects/582327)                | [4.1]                    |
+| [spark](https://modrinth.com/mod/l6YH9Als)                                   | [1.10.124]               |
+| [Starter Kit](https://modrinth.com/mod/6L3ydNi8)                             | [8.3]                    |
+| [Structory](https://modrinth.com/mod/aKCwCJlY)                               | [1.3.17]                 |
+| [Styled Chat](https://modrinth.com/mod/doqSKB0e)                             | [2.6.1+1.21]             |
+| [Styled Player List](https://modrinth.com/mod/DQIfKUHf)                      | [3.5.1+1.21]             |
+| [Terralith](https://modrinth.com/mod/8oi3bsk5)                               | [2.6.2]                  |
+| [Tick Stasis](https://modrinth.com/mod/t6XBQ2xn)                             | [1.1.1]                  |
+| [TT20](https://modrinth.com/mod/YS3ZignI)                                    | [0.8.5]                  |
+| [Unsafe World Random Access Detector](https://modrinth.com/mod/MsGuTgPJ)     | [1.1.3+neoforge]         |
+| [Vanishmod](https://modrinth.com/mod/MihN2cw5)                               | [1.1.21]                 |
+| [View Distance Fix](https://modrinth.com/mod/nxrXbh5K)                       | [1.21.1-1.0.2]           |
+| [Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG)                 | [1.2-neoforge-1.21.1]    |
+| [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/ZsrrjDbP)         | [1.0.4]                  |
+| [When Dungeons Arise](https://modrinth.com/mod/8DfbfASn)                     | [2.1.68]                 |
+| [World Border](https://modrinth.com/mod/nN96GjON)                            | [5.0]                    |
+| [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv)            | [1.21.1-NeoForge-4.1.5]  |
+| [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5)                  | [1.21.1-NeoForge-5.1.4]  |
+| [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ)                | [1.21.1-NeoForge-3.1.2]  |
+| [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih)            | [1.21.1-NeoForge-3.1.2]  |
+| [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr)                | [1.21.1-NeoForge-5.1.1]  |
+| [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP)         | [1.21.1-NeoForge-3.1.5]  |
+| [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4)           | [1.21.1-NeoForge-4.1.2]  |
+| [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU)               | [1.21.1-NeoForge-5.1.3]  |
