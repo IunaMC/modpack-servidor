@@ -167,7 +167,6 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 | [TrashSlot](https://modrinth.com/mod/vRYk0bv7)                                        | [21.1.11]                  |
 | [Twilight Forest - Dungeons & Villages](https://modrinth.com/mod/eDeSn4Ds)            | [2.0.3]                    |
 | [Veggies Delight](https://modrinth.com/mod/emQ94xri)                                  | [1.9.3]                    |
-| [WaterFrames](https://modrinth.com/mod/eBzFuVTM)                                      | [2.1.23]                   |
 | [WaterVision](https://modrinth.com/mod/dGGbEGoV)                                      | [0.1.0-alpha]              |
 | [Waystones](https://modrinth.com/mod/LOpKHB2A)                                        | [21.1.46]                  |
 | [What Are They Up To](https://modrinth.com/mod/AtB5mHky)                              | [1.21.0-1.2.7]             |
@@ -193,62 +192,73 @@ Estes mods são para melhorar a estética, jogabilidade ou pequenas mecânicas d
 ### Somente Servidor
 Estes mods são utilitários ou otimizações que só devem serem instaladas no servidor.
 
-| Nome                                                                         | Versao                   |
-| :--------------------------------------------------------------------------- | :----------------------- |
-| [BanHammer](https://modrinth.com/mod/Wpqg0ciI)                               | [0.11.1+1.21]            |
-| [BetterEndCities-BetterEnd-1.21](https://www.curseforge.com/projects/959460) | [1.21]                   |
-| [CalcMod: NeoForged](https://modrinth.com/mod/7uxk5PIo)                      | [1.4.2]                  |
-| [Chunky](https://modrinth.com/mod/fALzjamp)                                  | [1.4.23]                 |
-| [Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1)             | [4.0.1]                  |
-| [Crash Utilities](https://www.curseforge.com/projects/371813)                | [9.0.4]                  |
-| [Dungeon Crawl](https://modrinth.com/mod/q0rRg4lH)                           | [2.3.17]                 |
-| [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww)                    | [1-v4.4.4]               |
-| [Easy Authentication Mod](https://modrinth.com/mod/aZj58GfX)                 | [3.3.6]                  |
-| [Essential Commands](https://modrinth.com/mod/6VdDUivB)                      | [0.35.2-mc1.21]          |
-| [fastasyncworldsave mod](https://www.curseforge.com/projects/951499)         | [2.6]                    |
-| [Flan](https://modrinth.com/mod/Si383TIH)                                    | [1.21.1-1.12.8-neoforge] |
-| [GriefLogger](https://modrinth.com/mod/8oGVUFuX)                             | [1.2.10-1.21.1]          |
-| [Harvest with ease](https://modrinth.com/mod/W4Ajthd2)                       | [9.4.0]                  |
-| [Hazen N Stuff](https://modrinth.com/mod/I94FeWYD)                           | [1.4.0.14]               |
-| [HazentouveLib](https://modrinth.com/mod/nZaIUw7C)                           | [1.0.9]                  |
-| [Inv View](https://modrinth.com/mod/RXM1nxge)                                | [4.2.1]                  |
-| [Leashable Players](https://modrinth.com/mod/BKyMf6XK)                       | [1.1.0]                  |
-| [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV)                          | [21.1.1]                 |
-| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)                          | [1.5.0]                  |
-| [Log Begone](https://modrinth.com/mod/9ON3zv6e)                              | [1.0.3]                  |
-| [LuckPerms Placeholders](https://luckperms.net/wiki/Placeholders) | [5.5-SNAPSHOT] |
-| [LuckPerms](https://modrinth.com/mod/Vebnzrzj)                               | [5.4.150]                |
-| [Maintenance Mode](https://modrinth.com/mod/QOkEkSap)                        | [1.3.4]                  |
-| [MixinTrace reloaded [NEOFORGE]](https://modrinth.com/mod/wx2WW8va)          | [1.1.0]                  |
-| [Monsters & Spellbooks](https://www.curseforge.com/projects/1428928)         | [0.0.16.3]               |
-| [NetherPortalFix](https://modrinth.com/mod/nPZr02ET)                         | [21.1.1]                 |
-| [No Random Ticks](https://modrinth.com/mod/K2uLi5au)                         | [0.4-1.21.1]             |
-| [Observable](https://modrinth.com/mod/VYRu7qmG)                              | [5.4.4]                  |
-| [Server Chat Log History](https://modrinth.com/mod/HZ6y1yNV)                 | [1.10+1.21.1]            |
-| [Simple Discord Link](https://modrinth.com/mod/Sh0YauEf)                     | [3.4.5]                  |
-| [SkinRestorer](https://modrinth.com/mod/ghrZDhGW)                            | [2.11.0+1.21-neoforge]   |
-| [SkinShuffle](https://modrinth.com/mod/3s19I5jr)                             | [2.9.1+1.21]             |
-| [Smoothchunk mod](https://www.curseforge.com/projects/582327)                | [4.1]                    |
-| [spark](https://modrinth.com/mod/l6YH9Als)                                   | [1.10.124]               |
-| [Starter Kit](https://modrinth.com/mod/6L3ydNi8)                             | [8.3]                    |
-| [Structory](https://modrinth.com/mod/aKCwCJlY)                               | [1.3.17]                 |
-| [Styled Chat](https://modrinth.com/mod/doqSKB0e)                             | [2.6.1+1.21]             |
-| [Styled Player List](https://modrinth.com/mod/DQIfKUHf)                      | [3.5.1+1.21]             |
-| [Terralith](https://modrinth.com/mod/8oi3bsk5)                               | [2.6.2]                  |
-| [Tick Stasis](https://modrinth.com/mod/t6XBQ2xn)                             | [1.1.1]                  |
-| [TT20](https://modrinth.com/mod/YS3ZignI)                                    | [0.8.5]                  |
-| [Unsafe World Random Access Detector](https://modrinth.com/mod/MsGuTgPJ)     | [1.1.3+neoforge]         |
-| [Vanishmod](https://modrinth.com/mod/MihN2cw5)                               | [1.1.21]                 |
-| [View Distance Fix](https://modrinth.com/mod/nxrXbh5K)                       | [1.21.1-1.0.2]           |
-| [Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG)                 | [1.2-neoforge-1.21.1]    |
-| [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/ZsrrjDbP)         | [1.0.4]                  |
-| [When Dungeons Arise](https://modrinth.com/mod/8DfbfASn)                     | [2.1.68]                 |
-| [World Border](https://modrinth.com/mod/nN96GjON)                            | [5.0]                    |
-| [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv)            | [1.21.1-NeoForge-4.1.5]  |
-| [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5)                  | [1.21.1-NeoForge-5.1.4]  |
-| [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ)                | [1.21.1-NeoForge-3.1.2]  |
-| [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih)            | [1.21.1-NeoForge-3.1.2]  |
-| [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr)                | [1.21.1-NeoForge-5.1.1]  |
-| [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP)         | [1.21.1-NeoForge-3.1.5]  |
-| [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4)           | [1.21.1-NeoForge-4.1.2]  |
-| [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU)               | [1.21.1-NeoForge-5.1.3]  |
+| Nome                                                                                 | Versao                   |
+| :----------------------------------------------------------------------------------- | :----------------------- |
+| [AI Improvements: Performance Tuning](https://modrinth.com/mod/DSVgwcji)             | [0.5.3]                  |
+| [BanHammer](https://modrinth.com/mod/Wpqg0ciI)                                       | [0.11.1+1.21]            |
+| [BetterEndCities-BetterEnd-1.21](https://www.curseforge.com/projects/959460)         | [1.21]                   |
+| [CalcMod: NeoForged](https://modrinth.com/mod/7uxk5PIo)                              | [1.4.2]                  |
+| [Chunky](https://modrinth.com/mod/fALzjamp)                                          | [1.4.23]                 |
+| [Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1)                     | [4.0.1]                  |
+| [Crash Utilities](https://www.curseforge.com/projects/371813)                        | [9.0.4]                  |
+| [Dungeon Crawl](https://modrinth.com/mod/q0rRg4lH)                                   | [2.3.17]                 |
+| [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww)                            | [1-v4.4.4]               |
+| [Easy Authentication Mod](https://modrinth.com/mod/aZj58GfX)                         | [3.3.6]                  |
+| [Essential Commands](https://modrinth.com/mod/6VdDUivB)                              | [0.35.2-mc1.21]          |
+| [Fast Async World Save](https://www.curseforge.com/projects/951499)                  | [2.6]                    |
+| [fastasyncworldsave mod](https://www.curseforge.com/projects/951499)                 | [2.6]                    |
+| [Ferrite Core](https://modrinth.com/mod/uXXizFIs)                                    | [7.0.3]                  |
+| [Flan](https://modrinth.com/mod/Si383TIH)                                            | [1.21.1-1.12.8-neoforge] |
+| [GriefLogger](https://modrinth.com/mod/8oGVUFuX)                                     | [1.2.10-1.21.1]          |
+| [Harvest with ease](https://modrinth.com/mod/W4Ajthd2)                               | [9.4.0]                  |
+| [Hazen N Stuff](https://modrinth.com/mod/I94FeWYD)                                   | [1.4.0.14]               |
+| [HazentouveLib](https://modrinth.com/mod/nZaIUw7C)                                   | [1.0.9]                  |
+| [Inv View](https://modrinth.com/mod/RXM1nxge)                                        | [4.2.1]                  |
+| [Krypton FNP](https://modrinth.com/mod/JkxWVYwU)                                     | [0.2.28.1-1.21.1]        |
+| [Leashable Players](https://modrinth.com/mod/BKyMf6XK)                               | [1.1.0]                  |
+| [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV)                                  | [21.1.1]                 |
+| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)                                  | [1.5.0]                  |
+| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)                                  | [1.5.0]                  |
+| [Lithium](https://modrinth.com/mod/gvQqBUqZ)                                         | [0.15.4+mc1.21.1]        |
+| [Log Begone](https://modrinth.com/mod/9ON3zv6e)                                      | [1.0.3]                  |
+| [LuckPerms Placeholders](https://luckperms.net/wiki/Placeholders)                    | [5.5-SNAPSHOT]           |
+| [LuckPerms](https://modrinth.com/mod/Vebnzrzj)                                       | [5.4.150]                |
+| [Maintenance Mode](https://modrinth.com/mod/QOkEkSap)                                | [1.3.4]                  |
+| [MixinTrace reloaded [NEOFORGE]](https://modrinth.com/mod/wx2WW8va)                  | [1.1.0]                  |
+| [ModernFix](https://modrinth.com/mod/nmDcB62a)                                       | [5.27.26+mc1.21.1]       |
+| [Monsters & Spellbooks](https://www.curseforge.com/projects/1428928)                 | [0.0.16.3]               |
+| [NetherPortalFix](https://modrinth.com/mod/nPZr02ET)                                 | [21.1.1]                 |
+| [No Random Ticks](https://modrinth.com/mod/K2uLi5au)                                 | [0.4-1.21.1]             |
+| [Noisium](https://modrinth.com/mod/hasdd01q)                                         | [2.7.0+mc1.21-1.21.1]    |
+| [Observable](https://modrinth.com/mod/VYRu7qmG)                                      | [5.4.4]                  |
+| [ScalableLux](https://modrinth.com/mod/Ps1zyz6x)                                     | [0.3.0-alpha.0.8+1.21.1] |
+| [Server Chat Log History](https://modrinth.com/mod/HZ6y1yNV)                         | [1.10+1.21.1]            |
+| [Server Performance - Smooth Chunk Save](https://www.curseforge.com/projects/582327) | [4.1]                    |
+| [ServerCore](https://modrinth.com/mod/4WWQxlQP)                                      | [1.5.19+1.21.1]          |
+| [Simple Discord Link](https://modrinth.com/mod/Sh0YauEf)                             | [3.4.5]                  |
+| [SkinRestorer](https://modrinth.com/mod/ghrZDhGW)                                    | [2.11.0+1.21-neoforge]   |
+| [SkinShuffle](https://modrinth.com/mod/3s19I5jr)                                     | [2.9.1+1.21]             |
+| [Smoothchunk mod](https://www.curseforge.com/projects/582327)                        | [4.1]                    |
+| [spark](https://modrinth.com/mod/l6YH9Als)                                           | [1.10.124]               |
+| [Starter Kit](https://modrinth.com/mod/6L3ydNi8)                                     | [8.3]                    |
+| [Structory](https://modrinth.com/mod/aKCwCJlY)                                       | [1.3.17]                 |
+| [Styled Chat](https://modrinth.com/mod/doqSKB0e)                                     | [2.6.1+1.21]             |
+| [Styled Player List](https://modrinth.com/mod/DQIfKUHf)                              | [3.5.1+1.21]             |
+| [Terralith](https://modrinth.com/mod/8oi3bsk5)                                       | [2.6.2]                  |
+| [Tick Stasis](https://modrinth.com/mod/t6XBQ2xn)                                     | [1.1.1]                  |
+| [TT20](https://modrinth.com/mod/YS3ZignI)                                            | [0.8.5]                  |
+| [Unsafe World Random Access Detector](https://modrinth.com/mod/MsGuTgPJ)             | [1.1.3+neoforge]         |
+| [Vanishmod](https://modrinth.com/mod/MihN2cw5)                                       | [1.1.21]                 |
+| [View Distance Fix](https://modrinth.com/mod/nxrXbh5K)                               | [1.21.1-1.0.2]           |
+| [Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG)                         | [1.2-neoforge-1.21.1]    |
+| [When Dungeons Arise: Seven Seas](https://modrinth.com/mod/ZsrrjDbP)                 | [1.0.4]                  |
+| [When Dungeons Arise](https://modrinth.com/mod/8DfbfASn)                             | [2.1.68]                 |
+| [World Border](https://modrinth.com/mod/nN96GjON)                                    | [5.0]                    |
+| [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv)                    | [1.21.1-NeoForge-4.1.5]  |
+| [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5)                          | [1.21.1-NeoForge-5.1.4]  |
+| [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ)                        | [1.21.1-NeoForge-3.1.2]  |
+| [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih)                    | [1.21.1-NeoForge-3.1.2]  |
+| [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr)                        | [1.21.1-NeoForge-5.1.1]  |
+| [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP)                 | [1.21.1-NeoForge-3.1.5]  |
+| [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4)                   | [1.21.1-NeoForge-4.1.2]  |
+| [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU)                       | [1.21.1-NeoForge-5.1.3]  |
