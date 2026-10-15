@@ -199,8 +199,10 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 | [BetterEndCities-BetterEnd-1.21](https://www.curseforge.com/projects/959460)         | [1.21]                   |
 | [CalcMod: NeoForged](https://modrinth.com/mod/7uxk5PIo)                              | [1.4.2]                  |
 | [Chunky](https://modrinth.com/mod/fALzjamp)                                          | [1.4.23]                 |
+| [Clumps](https://modrinth.com/mod/Wnxd13zP)                                          | [19.0.0.1]               |
 | [Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1)                     | [4.0.1]                  |
 | [Crash Utilities](https://www.curseforge.com/projects/371813)                        | [9.0.4]                  |
+| [Despawn Tweaks](https://modrinth.com/mod/ahQrpeXp)                                  | [1.0.0]                  |
 | [Dungeon Crawl](https://modrinth.com/mod/q0rRg4lH)                                   | [2.3.17]                 |
 | [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww)                            | [1-v4.4.4]               |
 | [Easy Authentication Mod](https://modrinth.com/mod/aZj58GfX)                         | [3.3.6]                  |
@@ -213,6 +215,7 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 | [Harvest with ease](https://modrinth.com/mod/W4Ajthd2)                               | [9.4.0]                  |
 | [Hazen N Stuff](https://modrinth.com/mod/I94FeWYD)                                   | [1.4.0.14]               |
 | [HazentouveLib](https://modrinth.com/mod/nZaIUw7C)                                   | [1.0.9]                  |
+| [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg)                          | [0.2.0]                  |
 | [Inv View](https://modrinth.com/mod/RXM1nxge)                                        | [4.2.1]                  |
 | [Krypton FNP](https://modrinth.com/mod/JkxWVYwU)                                     | [0.2.28.1-1.21.1]        |
 | [Leashable Players](https://modrinth.com/mod/BKyMf6XK)                               | [1.1.0]                  |
@@ -231,7 +234,7 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 | [No Random Ticks](https://modrinth.com/mod/K2uLi5au)                                 | [0.4-1.21.1]             |
 | [Noisium](https://modrinth.com/mod/hasdd01q)                                         | [2.7.0+mc1.21-1.21.1]    |
 | [Observable](https://modrinth.com/mod/VYRu7qmG)                                      | [5.4.4]                  |
-| [ScalableLux](https://modrinth.com/mod/Ps1zyz6x)                                     | [0.3.0-alpha.0.8+1.21.1] |
+| [Saturn](https://modrinth.com/mod/2eT495vq)                                          | [0.1.5]                  |
 | [Server Chat Log History](https://modrinth.com/mod/HZ6y1yNV)                         | [1.10+1.21.1]            |
 | [Server Performance - Smooth Chunk Save](https://www.curseforge.com/projects/582327) | [4.1]                    |
 | [ServerCore](https://modrinth.com/mod/4WWQxlQP)                                      | [1.5.19+1.21.1]          |
