@@ -1,19 +1,17 @@
-# Changelog — v2.12.7, Performance Optimizations and Server Maintenance
+# Changelog — v2.13.8, Server Optimization Improvements and Release Automation
 
 ## Add
-- Add [ServerCore](https://modrinth.com/mod/4WWQxlS) to improve overall dedicated server performance and optimize server-side tick processing
-- Add [FerriteCore](https://modrinth.com/mod/uXXizFIs) to reduce memory usage and improve resource efficiency
-- Add [ModernFix](https://modrinth.com/mod/nmDcB62a) to improve startup performance, memory management and overall game stability
-- Add [Krypton FNP](https://modrinth.com/mod/7U8nZ3G) to optimize the networking stack and reduce packet processing overhead
-- Add [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) to improve dynamic lighting performance and scalability
-- Add [AI Improvements](https://modrinth.com/mod/g5eVx3T) to optimize entity pathfinding and reduce CPU usage caused by mob AI
-- Add [Lithium](https://modrinth.com/mod/gvQqBUqZ) to introduce broad gameplay and server-side performance optimizations
-- Add [Noisium](https://modrinth.com/mod/KuNKN7d) to improve world generation performance by optimizing noise calculations
+- Add [Clumps](https://modrinth.com/mod/Wnxd13zP) to merge nearby experience orbs, reducing entity counts and improving server performance
+- Add [Despawn Tweaks](https://modrinth.com/mod/ahQrpeXp) to improve entity despawn behavior and reduce unnecessary world load
+- Add [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg) to optimize various gameplay systems and reduce server overhead
+- Add [Saturn](https://modrinth.com/mod/2eT495vq) to improve memory allocation efficiency and optimize collection handling
 
 ## Removed
-- Remove Watermedia as it is a client-side only mod and provides no benefit on dedicated servers
+- Remove [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) due to compatibility issues with Sable
+- Remove [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) as it is a client-side only mod and provides no benefit on dedicated servers
+- Remove [Simply Tooltips](https://modrinth.com/mod/6avVoBVB) as it is a client-side only mod and provides no benefit on dedicated servers
 
 ## Updated
-- Update modpack version metadata from the previous release to `v2.12.7`
-- Update the mod list to reflect the current server optimization stack
-- Add packaging and release configuration files for the current distribution workflow
+- Update mod list to reflect the latest optimization and compatibility changes
+- Add automated GitHub Actions workflow for release publishing
+- Refresh release metadata and packaging assets for the `v2.13.8` release
