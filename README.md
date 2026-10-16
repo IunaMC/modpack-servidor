@@ -28,6 +28,8 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 | [Better Combat](https://modrinth.com/mod/5sy6g3kz)                                    | [2.4.0+1.21.1]             |
 | [Better End](https://modrinth.com/mod/IcERKldh)                                       | [21.0.35]                  |
 | [Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G)                                 | [21.1.0.14]                |
+| [Botany Pots](https://modrinth.com/mod/U6BUTZ7K)                                      | [21.1.44]                  |
+| [Botany Trees](https://modrinth.com/mod/mvs7RoIW)                                     | [21.1.7]                   |
 | [Brazilian Delight](https://modrinth.com/mod/Bgz35D5U)                                | [3.0.1]                    |
 | [Brewin' And Chewin'](https://modrinth.com/mod/hIu9KJTT)                              | [4.5.0]                    |
 | [Building Gadgets 2](https://www.curseforge.com/projects/298187)                      | [1.3.9]                    |
@@ -135,6 +137,7 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 | [Pipez](https://modrinth.com/mod/iRmWy6ga)                                            | [1.21.1-1.2.31]            |
 | [PlayerRevive](https://modrinth.com/mod/ABIMzABM)                                     | [2.1.2]                    |
 | [Polymorph](https://modrinth.com/mod/tagwiZkJ)                                        | [1.2.0+1.21.1]             |
+| [Power Scale](https://modrinth.com/mod/wkeZjUcx)                                      | [0.3.1.1]                  |
 | [Prometheus](https://modrinth.com/mod/7Z7a9JyH)                                       | [1.2.5]                    |
 | [Quark](https://modrinth.com/mod/qnQsVE2z)                                            | [4.1-486]                  |
 | [Quick Skin](https://modrinth.com/mod/zAIE84Ch)                                       | [3.0.1]                    |
