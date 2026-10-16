@@ -137,7 +137,6 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 | [Pipez](https://modrinth.com/mod/iRmWy6ga)                                            | [1.21.1-1.2.31]            |
 | [PlayerRevive](https://modrinth.com/mod/ABIMzABM)                                     | [2.1.2]                    |
 | [Polymorph](https://modrinth.com/mod/tagwiZkJ)                                        | [1.2.0+1.21.1]             |
-| [Power Scale](https://modrinth.com/mod/wkeZjUcx)                                      | [0.3.1.1]                  |
 | [Prometheus](https://modrinth.com/mod/7Z7a9JyH)                                       | [1.2.5]                    |
 | [Quark](https://modrinth.com/mod/qnQsVE2z)                                            | [4.1-486]                  |
 | [Quick Skin](https://modrinth.com/mod/zAIE84Ch)                                       | [3.0.1]                    |
@@ -151,6 +150,7 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 | [RFToolsUtility](https://modrinth.com/mod/7n3HbHSE)                                   | [1.21-7.0.12]              |
 | [Sable](https://modrinth.com/mod/T9PomCSv)                                            | [2.0.6]                    |
 | [SecurityCraft](https://modrinth.com/mod/v8jzRtAt)                                    | [1.10.2.1]                 |
+| [Silent's Power Scale](https://modrinth.com/mod/YCjSHxCP)                             | [0.3.1.1]                  |
 | [Simple Magnets](https://modrinth.com/mod/YyNQVpOu)                                   | [1.1.12+c]                 |
 | [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1)                                | [1.21.1-2.6.24]            |
 | [SimpleHats](https://modrinth.com/mod/iSkQCp6b)                                       | [0.4.0]                    |
