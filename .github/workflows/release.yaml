@@ -23,6 +23,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Baixar arquivos Git LFS
+        run: |
+          git lfs install
+          git lfs pull
 
       - name: Ler e validar a versão
         id: versao
@@ -49,12 +56,33 @@ jobs:
             echo "existe=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Gerar o zip
+      # A lista de arquivos do pacote vem do .index (sintaxe de .gitignore;
+      # linhas com "!" são exclusões). Veja .github/scripts/resolver_index.sh.
+      - name: Resolver a lista de arquivos (.index)
         if: steps.existe.outputs.existe == 'false'
         run: |
-          zip -r "$ARQUIVO" \
-            Obrigatorios Opcionais Servidor \
-            README.md MUDANCAS.md VERSAO
+          bash .github/scripts/resolver_index.sh index.lock > "$RUNNER_TEMP/arquivos.txt"
+          if [ ! -s "$RUNNER_TEMP/arquivos.txt" ]; then
+            echo "::error file=.index::O .index não resolveu nenhum arquivo."
+            exit 1
+          fi
+          echo "::group::$(wc -l < "$RUNNER_TEMP/arquivos.txt") arquivos serão empacotados"
+          cat "$RUNNER_TEMP/arquivos.txt"
+          echo "::endgroup::"
+
+      - name: Validar arquivos LFS
+        if: steps.existe.outputs.existe == 'false'
+        run: |
+          while IFS= read -r arquivo; do
+            if grep -q "^version https://git-lfs.github.com/spec/v1" "$arquivo" 2>/dev/null; then
+              echo "::error file=$arquivo::Arquivo ainda é um ponteiro Git LFS, o conteúdo real não foi baixado."
+              exit 1
+            fi
+          done < "$RUNNER_TEMP/arquivos.txt"
+
+      - name: Gerar o zip
+        if: steps.existe.outputs.existe == 'false'
+        run: zip -q "$ARQUIVO" -@ < "$RUNNER_TEMP/arquivos.txt"
 
       - name: Criar tag e release
         if: steps.existe.outputs.existe == 'false'
