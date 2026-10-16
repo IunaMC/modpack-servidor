@@ -1,17 +1,12 @@
-# Changelog — v2.13.8, Server Optimization Improvements and Release Automation
+# Changelog — v2.14.0, Botany Pots, Power Scale and Semantic Versioning
 
 ## Add
-- Add [Clumps](https://modrinth.com/mod/Wnxd13zP) to merge nearby experience orbs, reducing entity counts and improving server performance
-- Add [Despawn Tweaks](https://modrinth.com/mod/ahQrpeXp) to improve entity despawn behavior and reduce unnecessary world load
-- Add [Immersive Optimization](https://modrinth.com/mod/vNZgQmjg) to optimize various gameplay systems and reduce server overhead
-- Add [Saturn](https://modrinth.com/mod/2eT495vq) to improve memory allocation efficiency and optimize collection handling
-
-## Removed
-- Remove [ScalableLux](https://modrinth.com/mod/Ps1zyz6x) due to compatibility issues with Sable
-- Remove [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) as it is a client-side only mod and provides no benefit on dedicated servers
-- Remove [Simply Tooltips](https://modrinth.com/mod/6avVoBVB) as it is a client-side only mod and provides no benefit on dedicated servers
+- Add [Botany Pots](https://modrinth.com/mod/U6BUTZ7K) to grow crops in compact pots, ideal for automated farms
+- Add [Botany Trees](https://modrinth.com/mod/mvs7RoIW) to grow trees in Botany Pots
+- Add [Power Scale](https://modrinth.com/mod/wkeZjUcx) to let players scale down their own stats (speed, damage and other attributes) in 5 steps
+- Add dependency [Silent Lib](https://modrinth.com/mod/silent-lib) `10.6.0`
 
 ## Updated
-- Update mod list to reflect the latest optimization and compatibility changes
-- Add automated GitHub Actions workflow for release publishing
-- Refresh release metadata and packaging assets for the `v2.13.8` release
+- Move dependencies [Bookshelf](https://modrinth.com/mod/bookshelf-lib) `21.1.81` and [Prickle](https://modrinth.com/mod/prickle) `21.1.11` from optional to required, since they are now needed by required mods
+- Release workflow now builds the package from `index.lock` and downloads Git LFS files before packaging
+- Adopt Semantic Versioning: adding, removing or updating mods bumps the minor version
