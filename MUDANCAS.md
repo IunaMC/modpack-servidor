@@ -1,4 +1,8 @@
-# Changelog — v2.14.1, Silent's Power Scale Fix
+# Changelog — v2.15.0, Server Performance Cleanup
+
+## Removed
+- Remove the duplicate copy of [Lithium](https://modrinth.com/mod/gvQqBUqZ) `0.15.4` from the server-only folder; the same jar is still shipped as a required mod
+- Remove [Unsafe World Random Access Detector](https://modrinth.com/mod/MsGuTgPJ) `1.1.3`, a debugging companion for C2ME, which the server does not use
 
 ## Fixed
-- Fix the mod list and the `v2.14.0` changelog pointing to the wrong Power Scale project: the modpack ships [Silent's Power Scale](https://modrinth.com/mod/YCjSHxCP), a successor to Scaling Health that adds a difficulty system where mobs and players gain attribute bonuses such as extra health
+- Fix the server-only mod list showing Let Me Despawn twice

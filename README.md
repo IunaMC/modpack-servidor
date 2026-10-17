@@ -224,8 +224,6 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 | [Leashable Players](https://modrinth.com/mod/BKyMf6XK)                               | [1.1.0]                  |
 | [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV)                                  | [21.1.1]                 |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)                                  | [1.5.0]                  |
-| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn)                                  | [1.5.0]                  |
-| [Lithium](https://modrinth.com/mod/gvQqBUqZ)                                         | [0.15.4+mc1.21.1]        |
 | [Log Begone](https://modrinth.com/mod/9ON3zv6e)                                      | [1.0.3]                  |
 | [LuckPerms Placeholders](https://luckperms.net/wiki/Placeholders)                    | [5.5-SNAPSHOT]           |
 | [LuckPerms](https://modrinth.com/mod/Vebnzrzj)                                       | [5.4.150]                |
@@ -253,7 +251,6 @@ Estes mods são utilitários ou otimizações que só devem serem instaladas no 
 | [Terralith](https://modrinth.com/mod/8oi3bsk5)                                       | [2.6.2]                  |
 | [Tick Stasis](https://modrinth.com/mod/t6XBQ2xn)                                     | [1.1.1]                  |
 | [TT20](https://modrinth.com/mod/YS3ZignI)                                            | [0.8.5]                  |
-| [Unsafe World Random Access Detector](https://modrinth.com/mod/MsGuTgPJ)             | [1.1.3+neoforge]         |
 | [Vanishmod](https://modrinth.com/mod/MihN2cw5)                                       | [1.1.21]                 |
 | [View Distance Fix](https://modrinth.com/mod/nxrXbh5K)                               | [1.21.1-1.0.2]           |
 | [Waystones Teleport Pets](https://modrinth.com/mod/VaCl9OtG)                         | [1.2-neoforge-1.21.1]    |
